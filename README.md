@@ -21,7 +21,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="https://github.com/JhenMa/SISTEMA-DE-MATRICULAS/blob/main/Sistema_Matricula.png" alt="logo" width="200" height="auto" />
+  <img src="https://github.com/JhenMa/SISTEMA-DE-MATRICULAS/blob/main/Sistema_Matricula.png" alt="logo" width="400" height="auto" />
   <h1>Awesome Readme Template</h1>
   
   <p>
