@@ -1,7 +1,7 @@
 # :mortar_board: Sistema de matriculas con C++ 17
-# Programa que ayuda a la persona a la hora de salir, la cual atravez de una API sacaremos la informacion sobre la ruta y los horario de los buses de la zona. Para que la persona no pierda mucho tiempo y sea mas rapido a la hora de salir de donde se encuentre.
+# Programa que ayuda al usuario a poder registrar las matriculas de diversos cursos y diferentes alumnos
 
-## Grupo 6: Jheeremy Manuel Alvarez Astete(jalvarezas@unsa.edu.pe) , Diego Raul Rivas Huanca (drivash@unsa.edu.pe), César Gonzalo Carpio Paiva 
+## Grupo 6: Jheeremy Manuel Alvarez Astete(jalvarezas@unsa.edu.pe) , Diego Raul Rivas Huanca (drivash@unsa.edu.pe), César Gonzalo Carpio Paiva (ccarpiop@unsa.edu.pe)
 
 ## License [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
